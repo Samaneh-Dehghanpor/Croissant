@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: blanchedalmond;
+}
+img {
+  max-width: 600px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.links {
+  margin: 15px;
+}
